@@ -1,0 +1,98 @@
+{
+    "Group13_Song1_Full": {
+        "spectrohash": "807f81f480ffc924cdf07b2e87d0320ee6d37e28efb33c08bfcc3e80ff8e0090",
+        "features": [
+            "80ff81fe81fea3cebf0e3f3b3e317e717c715c457404760672067b847b805c00",
+            "801f87fecff0cff085f084f18073803f900ff90ef80ffa0ffe037e017e017f00",
+            "b3c4b3114c7b4c7bb380b3c44c3b4c7bb3c4b3804cce4c3b4c7bb3c4b3814c7f"
+        ]
+    },
+    "Group13_Song1_Music": {
+        "spectrohash": "b02fb6dda07f4d2fcdf0492f87d0a6ca85d14dc0cddb4dc084db07d0c4db05d8",
+        "features": [
+            "a2dfa2de82dc80df80dfc0ffc0fdc1bd80dd449d7695560576057f017f007f00",
+            "859b85f9cff1cff087d0819cb00cb02fb06fb82fba2fba0fbe01fe01d7004da0",
+            "c7d0c7d0382f382fc7d0c7d0382f382fc7d0c7d0382f382f382fc7d0c7d0382f"
+        ]
+    },
+    "Group13_Song1_Vocals": {
+        "spectrohash": "81fb81f481fb813481fb320580fb3205e2fb7e00f3fe3e00ffce3e80ffce40e0",
+        "features": [
+            "81ff81ff81feb39e3f0d3f393e317e717e717c7566046606620673807a805c00",
+            "857f87ff8bfa8ace80fd8031803380138195db84df84ff04fe27fe227e207e0c",
+            "bb0ebbe04411441537f0bb0ebfea441144154cf0bb2abbeefc4f441144f5fb0f"
+        ]
+    },
+    "Group13_Song2_Full": {
+        "spectrohash": "8400801080009135d2287fadd20c7fd7b4406ffaf97c6febf97d4f2bf9d5263a",
+        "features": [
+            "800080008000d030daa45aad5a8d5a8d5e8d3f0d3d5f2d7a67f26ff74ffb7fbf",
+            "800080008020a26a820d820b84028150dd9ffff5fdd4fdf6fdd61dde7f9f7fff",
+            "fa6efa6e059105910000fa6efa6e059105910591fa6efa6e000005910591fa6e"
+        ]
+    },
+    "Group13_Song2_Music": {
+        "spectrohash": "868a868386a2a687862abdf5902a7dfcd0087971f8187971f8385979f97879f9",
+        "features": [
+            "a622a622a62ae408e400f000f010f018b15919dd19dd1ddd1fdf1fff1fff1bf7",
+            "9000c000e008c00c866a866787e6a7e7afd7afdbafd7f9d5f994d914591d597d",
+            "f9acf9ac06530653f9acf9ac06530653f9acf9ac065306530653f9acf9ac0653"
+        ]
+    },
+    "Group13_Song2_Vocals": {
+        "spectrohash": "800081408000836f90286fafa2016fef82436ffe90f16ffffa156fbfda856fbb",
+        "features": [
+            "8110811080508270c2a44aaf4aad5a8d5a8d7f0f2d4e2d5267f26ff35ffb7fbf",
+            "800080009011b111b119d80dc8088000942e9d76aff6efe6eeffefee7fff7ffe",
+            "b274b2744d0b4d0bb274b2744d0b4d0bb274b2744d0b4d0b4d0bb274b2744d0b"
+        ]
+    },
+    "Group13_Song3_Full": {
+        "spectrohash": "87098d198f09dad6cc5472f6e84270e6e24a7d70f2c079bbf0f2339b70e28f0b",
+        "features": [
+            "8d098d098850f252f0627162f1a673e672665fbd8d8d4d9d66d472d6332b3d2b",
+            "a000c000f040f840e844b062870f8f1f8f9f8fbf9fbf879f8f8b776f71e370f0",
+            "f0d6f1e60f390f39f0c6e0d60f290f39f0c6f0c60e190f390f39f0c6f0c60f39"
+        ]
+    },
+    "Group13_Song3_Music": {
+        "spectrohash": "b121b931b131f2f7d05070fbe84a6debe04856ded4805fd6c4801dbfc4841faf",
+        "features": [
+            "b121b121b020f020f020e0c0ea446fd44fdc4fde0fde0fde0fdf0fcf0ecf0ecf",
+            "c800c000c008d842f163b871b173b3b3b3b7b7b697b48fb78e8ccfcf4fcd4e8c",
+            "8000800000000000000080008000000000000000800080000000000000008000"
+        ]
+    },
+    "Group13_Song3_Vocals": {
+        "spectrohash": "8f098f198f0d8c548d2472f686467266864e797182de79b972d273997276d3a9",
+        "features": [
+            "8d8d8d1d8e5eaa563156356631a67266726652a7c58d74b572d472d671697129",
+            "87948f9e8e1c8e148e069727870f8709e909f859f9d9f169f161f1e170f170f1",
+            "a790347e5b0b5b0da4f2a794586f5b0ba69ca4f2cb1d596b5b09a694a4e25b0d"
+        ]
+    },
+    "Group13_Song4_Full": {
+        "spectrohash": "83f881d883f8c5d195c17e01d5507e2afe123eaafe073e0efc073a0cdc273a6c",
+        "features": [
+            "83f883f083f1f733fc32d44adc485d4e5e2e428e609e70967c877e273a2f0859",
+            "be89f501fb01fd01d38083c887e083f883f082b080f6ec3fe23f7c3f7c0f7c17",
+            "f43af43a0bc50bc5f43af43a0bc50bc5f43af43a0bc50bc50bc5f43af43a0bc5"
+        ]
+    },
+    "Group13_Song4_Music": {
+        "spectrohash": "ba2e9965bd269d55b526cd519066cad192469aa9d257cae8d8536aaac8d16aba",
+        "features": [
+            "ba26ba26b826baa2baa29aa29aaade8bdc9956d952994299429942dd6bd56b55",
+            "88c9dcc398479c57bc36bb36b338b722a5aac4a9c4c8c3c9c3d9c2d9c2d945d5",
+            "d5aad5aa2a552a55d5aad5aa2a552a55d5aad5aa2a552a552a55d5aad5aa2a55"
+        ]
+    },
+    "Group13_Song4_Vocals": {
+        "spectrohash": "83f085f283f8d54183c97f41c3d07e22c3f07eaaff817e8edf243a0cd5303a2c",
+        "features": [
+            "83f883f083f1d371947394481c485d4c1e6e46ae409e75167c077c277a2f7a7f",
+            "85c083c0d390fb90c3c085e885eb809e8036b826bc27fc2ffc3ffc2f7c2f7c0f",
+            "f891f664074a074bf8b4f891076e074af891f8b41999076e0f5bf891f4e40f5b"
+        ]
+    }
+}

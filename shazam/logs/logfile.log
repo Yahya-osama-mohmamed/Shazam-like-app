@@ -1,0 +1,9 @@
+2021-06-01 08:28:23,726 Audio File 1 Loaded
+2021-06-01 08:28:23,726 starting extraction of data
+2021-06-01 08:28:23,831 subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:/Users/yehia/Downloads/Voice-Recognition-App-master/task-songs/Group13_Song2_Full.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2021-06-01 08:28:24,247 extraction successful
+2021-06-01 08:28:24,247 Loading done
+2021-06-01 08:28:25,937 starting searching process
+2021-06-01 08:28:25,938 loaded only one song
+2021-06-01 08:28:25,938 starting Extraction
+2021-06-01 08:28:27,197 comparing hashes ... 
